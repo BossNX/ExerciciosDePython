@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07ede756-460e-4a2c-9058-f7e395816ca8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VquOSI3r6XT1HYlNgzoBbcliJe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Salomao\PycharmProjects\CursoEmVideo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ex046">
+    <configuration name="aula013" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoEmVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula013.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex046" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoEmVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex046.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex047" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoEmVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex047.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex048" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoEmVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex048.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex049" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoEmVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex049.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ex046" />
+        <item itemvalue="Python.ex048" />
+        <item itemvalue="Python.ex049" />
+        <item itemvalue="Python.ex047" />
+        <item itemvalue="Python.aula013" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07ede756-460e-4a2c-9058-f7e395816ca8" name="Default Changelist" comment="" />
+      <created>1577992913386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577992913386</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="919" y="177" key="FileChooserDialogImpl" timestamp="1578592913959">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="919" y="177" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1578592913959" />
+    <state width="777" height="704" key="GridCell.Tab.0.bottom" timestamp="1579396476303">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="777" height="704" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1579396476303" />
+    <state width="777" height="704" key="GridCell.Tab.0.center" timestamp="1579396476303">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="777" height="704" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1579396476303" />
+    <state width="777" height="704" key="GridCell.Tab.0.left" timestamp="1579396476303">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="777" height="704" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1579396476303" />
+    <state width="777" height="704" key="GridCell.Tab.0.right" timestamp="1579396476303">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="777" height="704" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1579396476303" />
+    <state width="777" height="279" key="GridCell.Tab.1.bottom" timestamp="1578695676752">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="777" height="279" key="GridCell.Tab.1.bottom/0.0.1600.870@0.0.1600.870" timestamp="1578695676752" />
+    <state width="777" height="279" key="GridCell.Tab.1.center" timestamp="1578695676752">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="777" height="279" key="GridCell.Tab.1.center/0.0.1600.870@0.0.1600.870" timestamp="1578695676752" />
+    <state width="777" height="279" key="GridCell.Tab.1.left" timestamp="1578695676752">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="777" height="279" key="GridCell.Tab.1.left/0.0.1600.870@0.0.1600.870" timestamp="1578695676752" />
+    <state width="777" height="279" key="GridCell.Tab.1.right" timestamp="1578695676752">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="777" height="279" key="GridCell.Tab.1.right/0.0.1600.870@0.0.1600.870" timestamp="1578695676752" />
+    <state x="344" y="89" key="SettingsEditor" timestamp="1578602046963">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="344" y="89" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1578602046963" />
+    <state x="466" y="293" width="739" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1578602015247">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="466" y="293" width="739" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1600.870@0.0.1600.870" timestamp="1578602015247" />
+    <state x="862" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1578004399058">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="862" y="186" width="672" height="678" key="search.everywhere.popup/0.0.1600.870@0.0.1600.870" timestamp="1578004399058" />
+  </component>
+</project>

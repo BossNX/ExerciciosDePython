@@ -1,0 +1,5 @@
+n = str(input('Digite um nome: ')).strip()
+nome = n.split()
+print('\033[31;4mÉ um prazer te conhecer!\033[m')
+print('Seu \033[32;4mprimeiro\033[m nome: \033[35m{}\033[m '.format(nome[0]))
+print('Seu \033[34;4msegundo\033[m nome: \033[36m{}\033[m '.format(nome[len(nome)-1]))
