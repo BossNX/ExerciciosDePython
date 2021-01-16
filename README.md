@@ -1,2 +1,2 @@
-# ExerciciosDePython
- Exercícios feito no Curso em Vídeo
+# Exercícios de Python
+ Exercícios feito no Módulo 1 do curso de Python pelo Curso em Vídeo!
